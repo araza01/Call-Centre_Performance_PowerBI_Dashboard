@@ -7,14 +7,14 @@ Call-Centre Performance Analytics Dashboard
 An interactive Power BI Dashboard built to analyze Call-Centre performance metrics.
 This project helps visualize key insights into call volumes, durations, response times, and customer sentiments, helping managers optimize operations and improve customer service.
 
-### KPIs Requirement :scroll:
+### KPIs :scroll:
 1. Total Number of Calls
 2. Total Call Duration in Hours
 3. Total Call Duration in Minutes
 4. Average Call Duration in Minutes
 5. Response Time Percentage
 
-### Chart's Requirement :bar_chart:
+### Charts :bar_chart:
 1. Total Calls by Day
 2. Total Calls by State
 3. Top Reasons for Calls
